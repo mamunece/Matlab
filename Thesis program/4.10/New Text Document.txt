@@ -1,0 +1,1 @@
+modulation type QPSK ,M=2
